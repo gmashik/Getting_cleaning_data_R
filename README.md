@@ -32,5 +32,5 @@ The run_analysis.R file contains all of the R code written to generate the tidyd
 > 4. Appropriately labels the data set with descriptive variable names. 
 > 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
 
-#### tidydata.txt
+#### tidydata.csv
 The tidydata.csv file is the final output. 
